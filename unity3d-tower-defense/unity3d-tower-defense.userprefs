@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Menu\MainMenuManager.js">
+    <Files>
+      <File FileName="Assets\Scripts\Menu\MainMenuManager.js" Line="17" Column="40" />
+      <File FileName="Assets\Scripts\InGame\Managers\GameManager.js" Line="53" Column="14" />
+      <File FileName="Assets\Scripts\InGame\Managers\GameMenuManager.js" Line="34" Column="39" />
+      <File FileName="Assets\Scripts\InGame\Managers\InputManager.js" Line="11" Column="30" />
+      <File FileName="Assets\Scripts\InGame\Managers\TowerSelectManager.js" Line="24" Column="2" />
+      <File FileName="Assets\Scripts\InGame\Enemy\Enemy.js" Line="19" Column="27" />
+      <File FileName="Assets\Scripts\InGame\Enemy\EnemySpawner.js" Line="13" Column="31" />
+      <File FileName="Assets\Scripts\InGame\Enemy\EnemyWaves.js" Line="15" Column="28" />
+      <File FileName="Assets\Scripts\InGame\Enemy\RewardOnDestroy.js" Line="7" Column="2" />
+      <File FileName="Assets\Scripts\InGame\Enemy\WaveMonitor.js" Line="13" Column="39" />
+      <File FileName="Assets\Scripts\InGame\Enemy\WaypointTraveler.js" Line="20" Column="22" />
+      <File FileName="Assets\Scripts\InGame\Tower\Tower.js" Line="18" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
